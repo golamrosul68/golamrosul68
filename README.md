@@ -3,16 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/889ea631-9e6a-4226-bfa5-d396728a23e7)
 ">
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golamrosul68&label=Profile%20views&color=0e75b6&style=flat" alt="golamrosul68" /> </p>
-
-
-
-
-
 - 🔭 I’m currently working on **a MERN stack e-commerce website.**
 
 - 🌱 I’m currently learning **how to build full-stack applications using MongoDB, Express.js, React, and Node.js.**
