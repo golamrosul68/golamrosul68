@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Golam rosul</h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/c8116815-e988-4c93-baf9-c595550031ce)
-
-">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/c8116815-e988-4c93-baf9-c595550031ce)">
 
 
 
