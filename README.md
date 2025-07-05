@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Golam rosul</h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/889ea631-9e6a-4226-bfa5-d396728a23e7)
-">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golamrosul68&label=Profile%20views&color=0e75b6&style=flat" alt="golamrosul68" /> </p>
 - 🔭 I’m currently working on **a MERN stack e-commerce website.**
 
