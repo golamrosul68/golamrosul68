@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Golam rosul</h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/Y8qpPfB8Fy3UcqC67">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/0aecc6db-406b-40f2-996b-d06ec0abd0e3)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golamrosul68&label=Profile%20views&color=0e75b6&style=flat" alt="golamrosul68" /> </p>
 
