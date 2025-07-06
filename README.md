@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Golam Rosul</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
 </p>
