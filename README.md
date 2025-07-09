@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning: *Advanced Backend, DevOps basics*
 - 💬 Ask me about: *MongoDB, Express, React, Node.js*
 - ⚡ Fun fact: I love solving problems and exploring new technologies!
-
 ---
 
 ### 🚀 My Tech Stack
